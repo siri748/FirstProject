@@ -1,2 +1,2 @@
 score = 100
-timer = 60
+timer = 70
